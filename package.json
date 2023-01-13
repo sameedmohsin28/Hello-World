@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "You do not need any pre requisites nor any instructions for this project. This is a basic project to get us started with html, css, git, GitHub, and linters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameedmohsin28/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameedmohsin28/Hello-World/issues"
+  },
+  "homepage": "https://github.com/sameedmohsin28/Hello-World#readme"
+}
