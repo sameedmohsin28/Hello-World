@@ -1,2 +1,20 @@
 # Hello-World
-You do not need any pre requisites nor any instructions for this project. This is a basic project to get us started with html, css, git, GitHub, and linters.
+
+Key Features
+Displays Hello World.
+
+
+👥 Authors
+
+👤 Author1
+
+GitHub: @sameedmohsin28
+LinkedIn: https://www.linkedin.com/in/sameed-mohsin-538792180/ 
+
+
+If you like this project, please send an appreciation on my LinkedIn
+
+
+🙏 Acknowledgments
+
+I would like to thank https://github.com/matee-safi, https://github.com/mpa-mxiang, https://github.com/baezluise for their support.
